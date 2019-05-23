@@ -4,7 +4,7 @@ New beginnings are exciting, but difficult & fragile times. This set of scrips i
 
 The intended target system may vary from code to code, but though much of this will work on other platforms without modifcation (Terms and conditions apply).
 
-# # Licence
+# Licence
 
 I don't know what the appropriate licensing for this project is, so until I decide, the licence is this: Be cool. Check out my code, play with it, perhaps even improve it! If you're going to sell it or use it to make money, ask first, and we'll work that out. If it's being given away, maintain proper attribution.
 
